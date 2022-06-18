@@ -1,8 +1,7 @@
 # Installation setup
 
-Option 1 (bash + makefile):
-
   Steps:
+
     (1)
     go to tools/  
     	extras/check_dependencies.sh
