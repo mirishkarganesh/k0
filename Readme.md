@@ -11,5 +11,6 @@ Option 1 (bash + makefile):
     (2)
     go to src/ 
     	./configure --shared
-  		make depend -j 8
-  		make -j 8
+  		make depend -j 'nproc'
+  		make -j 'nproc'
+
