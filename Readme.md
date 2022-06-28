@@ -8,11 +8,11 @@
 
     (2)
     go to tools/  
-    	extras/check_dependencies.sh
-      extras/install_mkl.sh
-    	make -j 'nproc'
-      extras/install_irstlm.sh
-      ./install_srilm.sh
+        extras/check_dependencies.sh
+        extras/install_mkl.sh
+    	  make -j 'nproc'
+        extras/install_irstlm.sh
+        ./install_srilm.sh
 
     (3)
     go to src/ 
