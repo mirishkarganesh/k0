@@ -4,8 +4,8 @@
   
 Following are the steps to be followed :
 ```
-  sudo apt update
-  sudo apt install -y cmake sox ffmpeg g++ automake autoconf libtool subversion git zlib1g-dev unzip gfortran python2.7 python3
+sudo apt update
+sudo apt install -y cmake sox ffmpeg g++ automake autoconf libtool subversion git zlib1g-dev unzip gfortran python2.7 python3
 ```
 `go to tools/`
 ```
