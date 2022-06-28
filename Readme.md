@@ -22,5 +22,5 @@ extras/install_irstlm.sh
 ```
 ./configure --shared
 make depend -j 'nproc'
-make -j 'nproc'
+make -j 'nproc'    
 ```
