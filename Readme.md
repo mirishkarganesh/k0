@@ -6,6 +6,10 @@ Following are the steps to be followed :
 ```
 git clone https://github.com/mirishkarganesh/k0.git
 ```
+or (for full version only)
+```
+git clone https://github.com/kaldi-asr/kaldi.git
+```
 ```
 sudo apt update
 sudo apt install -y cmake sox ffmpeg g++ automake autoconf libtool subversion git zlib1g-dev unzip gfortran python2.7 python3
